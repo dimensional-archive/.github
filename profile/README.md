@@ -12,11 +12,12 @@ However, you can join my server to talk to me!
 ## OSS
 
 Just because these projects are open source doesn't mean you can outright take the code.
-If any of the projects do **NOT** have a `LICENSE` file, these are the things you can do with the code:
+If any of the projects do **NOT** have a `LICENSE` file, you must abide by the following terms & conditions:
 
-- use it and provide credit to me, must be clear to the user.
-- take inspiration to improve on the code, this does not mean you can just copy it.
-- fix any issues that you find/experience, I am not liable for **ANYTHING** pertaining to the code in this org.
+- take no credit for any of the code, must be clear to the user. this does not include any changes.
+- you may only take inspiration or improve on the code (while still crediting me).
+- i may not be held for **ANYTHING** pertaining to the code in this org (damages, loses, etc).
+- it may not be used commercially.
 
 ---
 
