@@ -7,7 +7,7 @@
 I am not giving support for any of these projects.
 However, you can join my server to talk to me!
 
-###### [Discord Server](https://discord.gg/JrHfSmb)
+###### [Discord Server](https://discord.gg/8R4d8RydT4)
 
 ## OSS
 
