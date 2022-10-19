@@ -1,6 +1,6 @@
 # Dimensional Archive
 
-> Old projects I'm not working on anymore.
+> Old projects that are not being worked on anymore
 
 ## Support
 
@@ -12,11 +12,13 @@ However, you can join my server to talk to me!
 ## OSS
 
 Just because these projects are open source doesn't mean you can outright take the code.
-If any of the projects do **NOT** have a `LICENSE` file, you must abide by the following terms & conditions:
+Regardless of any `LICENSE` file you must abide by the following terms & conditions:
+
+> When we say "us" or "**we**" we are referring to Dimensional Fun
 
 - take no credit for any of the code, must be clear to the user. this does not include any changes.
-- you may only take inspiration or improve on the code (while still crediting me).
-- i may not be held responsible for **ANYTHING** pertaining to the code in this org (damages, loses, etc).
+- you may only take inspiration or improve on the code (while still crediting us).
+- we may not be held responsible for **ANYTHING** pertaining to the code in this org (damages, loses, etc).
 - it may not be used commercially.
 
 ---
