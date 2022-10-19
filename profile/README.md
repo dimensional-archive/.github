@@ -4,8 +4,8 @@
 
 ## Support
 
-I am not giving support for any of these projects.
-However, you can join my server to talk to me!
+Support will not be given to any of these projects.
+However, you can join my server to talk to us!
 
 ###### [Discord Server](https://discord.gg/8R4d8RydT4)
 
